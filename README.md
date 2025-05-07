@@ -1,3 +1,7 @@
+# INTRODUCTION
+
+A deep learning approach using Convolutional Neural Networks (CNN) is proposed to analyze sentiments more effectively than traditional sentiment analysis models. CNNs are adapted for Natural Language Processing (NLP) to capture semantic features in text.
+
 # PyTorch Sentiment Analysis
 
 This repo contains tutorials covering understanding and implementing sequence classification models , Specifically, we'll train models to predict sentiment from movie reviews.
